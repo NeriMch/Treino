@@ -1,0 +1,5 @@
+Supermercado          R$ 182,60
+Combustivel           R$ 250,00
+Vestuário             R$ 80,00
+Farmácia              R$ 67,00
+Outros                R$ 122,00
